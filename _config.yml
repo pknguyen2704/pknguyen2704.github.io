@@ -1,6 +1,6 @@
 remote_theme:       mmistakes/so-simple-theme
 skin:               "/assets/css/skins/default.css"
-locale:             vi
+locale:             en-US
 title:              "Dev With Nguyen Blog"
 description:        "Góc riêng của Phùng Khôi Nguyên - Andrew"
 baseurl:            # the subpath of your site, e.g. "/blog"
