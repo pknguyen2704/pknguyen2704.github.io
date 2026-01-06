@@ -7,4 +7,8 @@ andrewphung:
   links:
     - title: Facebook
       url: https://www.facebook.com/nguyenpk.andrew/
-      icon: fab fa-facebook-square
+      icon: fa-brands fa-square-facebook
+
+    - title: Instagram
+      url: https://www.instagram.com/andrew.dev.with.nguyen/
+      icon: fa-brands fa-square-instagram
