@@ -72,7 +72,4 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fa-solid fa-square-rss
-  - title: Instagram
-    url: https://www.instagram.com/andrew.dev.with.nguyen/
-    icon: fa-brands fa-square-instagram
 
