@@ -1,6 +1,6 @@
 remote_theme:       mmistakes/so-simple-theme
 skin:               "/assets/css/skins/default.css"
-locale:             en-US
+locale:             vi
 title:              "Dev With Nguyen Blog"
 description:        "Góc riêng của Phùng Khôi Nguyên - Andrew"
 baseurl:            # the subpath of your site, e.g. "/blog"
@@ -73,4 +73,4 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
   - title: Instagram
-    
+

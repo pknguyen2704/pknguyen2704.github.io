@@ -35,7 +35,6 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-
 # German
 # -----------------
 de: &DEFAULT_DE
@@ -190,3 +189,30 @@ tr: &DEFAULT_TR
   powered_by: "Powered by"
 tr-TR:
   <<: *DEFAULT_TR
+
+# Vietnamese
+# -----------------
+vi:
+  skip_links: "Bỏ qua liên kết"
+  skip_primary_nav: "Chuyển đến điều hướng chính"
+  skip_content: "Chuyển đến nội dung"
+  skip_footer: "Chuyển đến chân trang"
+  menu_label: "Menu"
+  by: "bởi"
+  min_read: "Thời gian đọc ước tính"
+  read_more: "Đọc thêm&hellip;"
+  categories: "Chuyên mục"
+  tags: "Thẻ"
+  pages_categorized: "Các trang trong chuyên mục"
+  pages_tagged: "Các trang được gắn thẻ"
+  table_of_contents: "Mục lục"
+  results_found: "Kết quả được tìm thấy"
+  share: "Chia sẻ"
+  tweet: "Tweet"
+  next: "Tiếp theo"
+  previous: "Trước"
+  newer: "Mới hơn"
+  older: "Cũ hơn"
+  back_to_top: "Lên đầu trang"
+  search_placeholder_text: "Nhập từ khóa tìm kiếm..."
+  powered_by: "Được hỗ trợ bởi"
