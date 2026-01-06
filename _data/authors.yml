@@ -1,0 +1,10 @@
+# Sample Authors
+# Remove file or replace with your own
+
+andrewphung:
+  name: Phùng Khôi Nguyên
+  picture: /images/andrewphung_logo.png
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square
